@@ -31,9 +31,7 @@ This course will focus on the interaction of computer security and computer arch
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+
 
 ## Meetings
 Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628){:target="_blank"}.
