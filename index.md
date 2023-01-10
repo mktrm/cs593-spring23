@@ -38,7 +38,6 @@ Undergraduate Computer Architecture (CS250 or equivalent). We will review most o
 ## Meetings
 Lectures are Tu/Th from 13:30 to 14:45 at REC 103{:target="_blank"}.
 
-Updated Office Hours on Brightspace (See [Course Calendar](){:target="_blank"}).
 
 
 ## Textbook
